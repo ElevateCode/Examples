@@ -1,0 +1,18 @@
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\bin\Debug\CustomDictionaryExample.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\bin\Debug\CustomDictionaryExample.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\bin\Debug\CustomDictionaryExample.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\MainWindow.baml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\Application.g.vb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample_MarkupCompile.cache
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.g.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.Resources.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.pdb
+C:\Elevate Code\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.exe
+C:\Elevate Code\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.xml
+C:\Elevate Code\CustomDictionaryExample\CustomDictionaryExample\obj\x86\Debug\CustomDictionaryExample.pdb

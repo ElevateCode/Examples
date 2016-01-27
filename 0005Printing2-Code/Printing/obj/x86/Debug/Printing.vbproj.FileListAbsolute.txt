@@ -1,0 +1,31 @@
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\bin\Debug\Printing.exe
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\bin\Debug\Printing.pdb
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\bin\Debug\Printing.xml
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\Printing.frmPrinting.resources
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\Printing.Resources.resources
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\Printing.exe
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\Printing.xml
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\Printing\obj\x86\Debug\Printing.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\Printing.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\Printing.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\Printing.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\bin\Debug\Printing.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\bin\Debug\Printing.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\bin\Debug\Printing.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\Printing.frmPrinting.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\Printing.Resources.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\Printing\Printing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\obj\x86\Debug\Printing.exe
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\obj\x86\Debug\Printing.xml
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\obj\x86\Debug\Printing.pdb
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\bin\Debug\Printing.exe
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\bin\Debug\Printing.pdb
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\bin\Debug\Printing.xml
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\obj\x86\Debug\Printing.frmPrinting.resources
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\obj\x86\Debug\Printing.Resources.resources
+C:\Users\Jem\Desktop\Elevate Code\Printing\Printing Part II\Printing\obj\x86\Debug\Printing.vbproj.GenerateResource.Cache

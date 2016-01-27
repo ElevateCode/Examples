@@ -1,0 +1,31 @@
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\bin\Debug\WordWrap.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\bin\Debug\WordWrap.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\bin\Debug\WordWrap.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\WordWrap.Form1.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\WordWrap.Resources.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\WordWrap.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\WordWrap.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WordWrap\WordWrap\obj\x86\Debug\WordWrap.pdb
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\WordWrap.exe
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\WordWrap.xml
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\WordWrap.pdb
+C:\Elevate Code\WordWrap\WordWrap\bin\Debug\WordWrap.exe
+C:\Elevate Code\WordWrap\WordWrap\bin\Debug\WordWrap.pdb
+C:\Elevate Code\WordWrap\WordWrap\bin\Debug\WordWrap.xml
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\WordWrap.Form1.resources
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\WordWrap.Resources.resources
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Elevate Code\WordWrap\WordWrap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\obj\x86\Debug\WordWrap.exe
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\obj\x86\Debug\WordWrap.xml
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\obj\x86\Debug\WordWrap.pdb
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\bin\Debug\WordWrap.exe
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\bin\Debug\WordWrap.pdb
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\bin\Debug\WordWrap.xml
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\obj\x86\Debug\WordWrap.Form1.resources
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\obj\x86\Debug\WordWrap.Resources.resources
+C:\Elevate Code\Printing Concepts\WordWrap\WordWrap\obj\x86\Debug\WordWrap.vbproj.GenerateResource.Cache

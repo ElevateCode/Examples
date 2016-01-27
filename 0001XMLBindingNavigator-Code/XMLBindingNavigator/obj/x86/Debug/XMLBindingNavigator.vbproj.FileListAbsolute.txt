@@ -1,0 +1,29 @@
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\bin\Debug\XMLBindingNavigator.exe
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\bin\Debug\XMLBindingNavigator.pdb
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\bin\Debug\XMLBindingNavigator.xml
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.Form1.resources
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.Resources.resources
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.exe
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.xml
+C:\Users\Charles Cope\Desktop\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.pdb
+C:\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.exe
+C:\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.xml
+C:\Jem\Visual Basic Practice\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.pdb
+C:\Jem\Youtube\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.exe
+C:\Jem\Youtube\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.xml
+C:\Jem\Youtube\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.pdb
+C:\Users\Jem\Desktop\Youtube\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.exe
+C:\Users\Jem\Desktop\Youtube\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.xml
+C:\Users\Jem\Desktop\Youtube\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.pdb
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.exe
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.xml
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.pdb
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\bin\Debug\XMLBindingNavigator.exe
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\bin\Debug\XMLBindingNavigator.pdb
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\bin\Debug\XMLBindingNavigator.xml
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.Form1.resources
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.Resources.resources
+C:\Users\Jem\Desktop\Elevate Code\XML Binding Navigator\XMLBindingNavigator\XMLBindingNavigator\obj\x86\Debug\XMLBindingNavigator.vbproj.GenerateResource.Cache

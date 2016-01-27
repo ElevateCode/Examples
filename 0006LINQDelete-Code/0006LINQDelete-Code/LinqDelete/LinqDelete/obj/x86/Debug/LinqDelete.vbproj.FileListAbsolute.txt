@@ -1,0 +1,25 @@
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\bin\Debug\LinqDelete.exe
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\bin\Debug\LinqDelete.pdb
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\bin\Debug\LinqDelete.xml
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\LinqDelete.frmDelete.resources
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\LinqDelete.Resources.resources
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\LinqDelete.exe
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\LinqDelete.xml
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\LinqDelete\obj\x86\Debug\LinqDelete.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\bin\Debug\LinqDelete.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\bin\Debug\LinqDelete.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\bin\Debug\LinqDelete.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.frmDelete.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.Resources.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\LinqDelete\LinqDelete\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Elevate Code\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.exe
+C:\Elevate Code\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.xml
+C:\Elevate Code\LinqDelete\LinqDelete\obj\x86\Debug\LinqDelete.pdb

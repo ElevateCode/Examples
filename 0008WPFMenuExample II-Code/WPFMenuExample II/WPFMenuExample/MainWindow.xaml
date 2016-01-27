@@ -1,0 +1,35 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Menu Example VB.Net" Height="350" Width="525" Name="winMain">
+    <Grid Name="grdMain">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <DockPanel Name="docPanMain" LastChildFill="False">
+            <Menu Height="23" Name="mnuMain" DockPanel.Dock="Top">
+                <MenuItem Header="_File" Name="mnuFile">
+                    <MenuItem Header="_New" Name="mnuNew" />
+                    <MenuItem Header="_Open" Name="mnuOpen">
+                        <MenuItem Header="PDF" Name="mnuPDF" />
+                        <MenuItem Header="Doc" Name="mnuDoc" />
+                    </MenuItem>
+                    <MenuItem Header="_Save" Name="mnuSave" />
+                    <Separator Name="mnuSepFileExit"></Separator>
+                    <MenuItem Header="E_xit" Name="mnuExit" />
+                </MenuItem>
+                <MenuItem Header="Edit" Name="mnuEdit">
+                    <MenuItem Header="Find" Name="mnuFind" />
+                    <MenuItem Header="Replace" Name="mnuReplace" />
+                    <MenuItem Header="Go To" Name="mnuGoTo" />
+                </MenuItem>
+                <MenuItem Header="View" Name="mnuView">
+                    <MenuItem Header="Normal" Name="mnuNormal" />
+                    <MenuItem Header="Full Screen" Name="mnuFullScreen" />
+                    <MenuItem Header="Zoom" Name="mnuZoom" />
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+    </Grid>
+</Window>

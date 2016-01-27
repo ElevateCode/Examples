@@ -1,0 +1,43 @@
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\bin\Debug\WPFMenuExample.exe
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\bin\Debug\WPFMenuExample.pdb
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\bin\Debug\WPFMenuExample.xml
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\MainWindow.baml
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\Application.g.vb
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\WPFMenuExample_MarkupCompile.cache
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\WPFMenuExample.g.resources
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\WPFMenuExample.Resources.resources
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\WPFMenuExample.exe
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\WPFMenuExample.xml
+C:\Users\Charles Cope\AppData\Local\Temporary Projects\WPFMenuExample\obj\x86\Debug\WPFMenuExample.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\WPFMenuExample.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\WPFMenuExample.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\WPFMenuExample.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\bin\Debug\WPFMenuExample.exe
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\bin\Debug\WPFMenuExample.pdb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\bin\Debug\WPFMenuExample.xml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\MainWindow.baml
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\Application.g.vb
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\WPFMenuExample_MarkupCompile.cache
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\WPFMenuExample.g.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\WPFMenuExample.Resources.resources
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles Cope\Documents\Visual Studio 2010\Projects\WPFMenuExample\WPFMenuExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\WPFMenuExample.exe
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\WPFMenuExample.xml
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\WPFMenuExample.pdb
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\bin\Debug\WPFMenuExample.exe
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\bin\Debug\WPFMenuExample.pdb
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\bin\Debug\WPFMenuExample.xml
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\MainWindow.baml
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\MainWindow.g.vb
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\Application.g.vb
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\WPFMenuExample_MarkupCompile.cache
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\WPFMenuExample.g.resources
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\WPFMenuExample.Resources.resources
+C:\Elevate Code\WPF Menu Part II\WPFMenuExample II\WPFMenuExample\obj\x86\Debug\WPFMenuExample.vbproj.GenerateResource.Cache
